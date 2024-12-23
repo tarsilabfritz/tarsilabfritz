@@ -6,6 +6,7 @@
 - 🎓 Software Engineering Student
 - 🌐 Passionate about development
 - 💡 Love a good challenge
+- 🌱 Currently, I am most focused on: **Python** 🐍 and **C#** 💻  
 
 ### GitHub Stats  
 
