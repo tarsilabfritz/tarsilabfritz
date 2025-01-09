@@ -1,12 +1,12 @@
 # Hi there! 👋  
 
 ## My name is Tarsila Fritz  
-( Python | C# | Javascript | HTML | CSS ) 🚀  
+( Python | Javascript | HTML | CSS ) 🚀  
 
 - 🎓 Software Engineering Student
 - 🌐 Passionate about development
 - 💡 Love a good challenge
-- 🌱 Currently, I am most focused on: **Python** 🐍 and **C#** 💻  
+- 🌱 Currently, I am most focused on: **Python** 🐍 and **JavaScript** 💻  
 
 ### GitHub Stats  
 
